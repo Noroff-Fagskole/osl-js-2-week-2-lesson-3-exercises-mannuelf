@@ -8,7 +8,13 @@ To do app: saving list state and updating item values
 2. Updating list item values
 3. Clearing a list
 
-## Lesson Task
 
-There are practice questions in the master branch of this [repo](https://github.com/NoroffFEU/lesson-task-js2-module2-lesson3).
+## Lesson Taks 2 
+
+[task repo](https://github.com/NoroffFEU/lesson-task-js2-module2-lesson2)
+
+## Lesson Task 3
+
+There are practice questions in the master branch of this [task repo](https://github.com/NoroffFEU/lesson-task-js2-module2-lesson3).
+
 
