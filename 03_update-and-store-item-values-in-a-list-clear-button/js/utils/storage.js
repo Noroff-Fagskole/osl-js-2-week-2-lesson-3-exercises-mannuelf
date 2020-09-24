@@ -3,7 +3,7 @@ export function saveToStorage(key, value) {
 }
 
 export function getFromStorage(key) {
-    const value = localStorage.getItem(key);
+    let value = localStorage.getItem(key);
 
     if (!value) {
         return [];
