@@ -32,3 +32,7 @@ li {
 span.checked {
   text-decoration: line-through;
 }
+
+input[type='text'] {
+  border: none;
+}
